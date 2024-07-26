@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muzikayifani
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning bmc remedy
+- 🌱 I’m a BMC remedy Developer
 - 📫 How to reach me is by emailing me at morpheusksmuzithango@gmail.com
 
 <!---
